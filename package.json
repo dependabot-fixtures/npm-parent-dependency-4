@@ -1,6 +1,6 @@
 {
   "name": "@dependabot-fixtures/npm-parent-dependency-4",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "a test fixture for testing transitive dependency updates",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dependabot-fixtures/npm-parent-dependency-4#readme",
   "dependencies": {
-    "@dependabot-fixtures/npm-intermediate-dependency-4": "^1.3.0"
+    "@dependabot-fixtures/npm-intermediate-dependency-4": "^2.0.0"
   }
 }
